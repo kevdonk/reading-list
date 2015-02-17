@@ -1,6 +1,6 @@
 <div class="container">
   <h2> Reading List </h2>
     <section ng-repeat="bookmark in bookmarks">
-      <a ng-href="bookmark.url">{{bookmark.name}}</a> - {{bookmark.desc}}
+      <a ng-href="{{bookmark.url}}">{{bookmark.name}}</a> - {{bookmark.desc}}
     </section>
 </div>

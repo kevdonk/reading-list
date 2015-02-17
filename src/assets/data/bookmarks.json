@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cmder",
+    "url": "http://bliker.github.io/cmder",
+    "desc": "Windows Console Emulator",
+    "category": "Tools"
+  },
+  {
+    "name": "Yeoman",
+    "url": "http://yeoman.io",
+    "desc": "WebApp Scaffolding Tool",
+    "category": "Tools"
+  }
+]
+
