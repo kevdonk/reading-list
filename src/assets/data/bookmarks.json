@@ -10,6 +10,31 @@
     "url": "http://yeoman.io",
     "desc": "WebApp Scaffolding Tool",
     "category": "Tools"
-  }
+  },
+  {
+    "name": "Learning Javascipt Design Patterns",
+    "url": "http://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+    "desc": "A book by Addy Osmani on design patterns in Javascript",
+    "category": "JavaScript"
+  },
+  {
+    "name": "React in 7 Minutes",
+    "url": "https://egghead.io/lessons/react-react-in-7-minutes",
+    "desc": "Overview of React from egghead.io",
+    "category": "JavaScript"
+  },
+  {
+    "name": "CSS Tricks",
+    "url": "http://http://css-tricks.com/",
+    "desc": "Chris Coyier's excellent blog on Web Development",
+    "category": "Development"
+  },
+  {
+    "name": "DWB",
+    "url": "http://davidwalsh.name/",
+    "desc": "David Walsh's blog on Web Development",
+    "category": "Development"
+  }  
 ]
+
 
